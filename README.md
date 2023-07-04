@@ -1,18 +1,11 @@
-## Getting Started
+## Spyware 🕵
+This Java Keylogger with Screen Scraper is a software program designed for educational purposes to demonstrate keylogging and screen scraping techniques. It serves as a learning tool to understand the potential risks associated with such techniques and how to defend against them.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Functionality:
+**[Click here for demo video](https://youtu.be/--9xIlMJzG0)**
 
-## Folder Structure
+The Java Keylogger with Screen Scraper captures keystrokes entered by the user and logs it into a csv file, also logs the window/application in which the keys were typed along with date and time. It also captures screenshots when the user switches between windows or applications. The captured photoes are saved in a seperate folder with file name as date and time of capture. This program cant be stopped from the console, you have to end it from the task manager.
 
-The workspace contains two folders by default, where:
+Note: The purpose of this software is purely educational. It is essential to respect privacy laws and ethical guidelines when applying the knowledge gained from this software. The authors and OpenAI are not liable for any misuse or illegal activities associated with this software. Always use it responsibly and for legitimate educational purposes only.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Please take the necessary precautions and respect privacy and security laws while using this software.
